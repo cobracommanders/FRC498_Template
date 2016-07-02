@@ -43,8 +43,8 @@ public class AutonomousController implements IComponent{
 					phase++;
 				}
 				break;
-		}
-	} */
+		}*/
+	} 
 	
 	private void AutoOption2() {
 		/*switch (phase) {
